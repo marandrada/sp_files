@@ -1,0 +1,22 @@
+[
+    {
+        "empresa": "T01",
+        "version": "1.27",
+        "url": "https://github.com/marandrada/sp_files/releases/download/v1.27/Spye.T01.1.27.apk"
+    },
+    {
+        "empresa": "TD5",
+        "version": "1.24",
+        "url": "https://spyefiles.netlify.app/Spye.TD5.1.24.apk"
+    },
+    {
+        "empresa": "T16",
+        "version": "1.26",
+        "url": "https://spyefiles.netlify.app/Spye.T16.1.26.apk"
+    },
+    {
+        "empresa": "TEST",
+        "version": "1.18",
+        "url": "https://spyefiles.netlify.app/Spye.TEST.1.18.apk"
+    }
+]
