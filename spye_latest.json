@@ -1,8 +1,8 @@
 [
     {
         "empresa": "T01",
-        "version": "1.42",
-        "url": "https://github.com/marandrada/sp_files/releases/download/v1.42/Spye.T01.1.42.apk",
+        "version": "1.43",
+        "url": "https://github.com/marandrada/sp_files/releases/download/v1.43/Spye.T01.1.43.apk",
         "logUrl": "https://dev.marthai.com/aws3"
     },
     {
@@ -13,8 +13,8 @@
     },
     {
         "empresa": "T16",
-        "version": "1.42",
-        "url": "https://github.com/marandrada/sp_files/releases/download/v1.42/Spye.T16.1.42.apk",
+        "version": "1.43",
+        "url": "https://github.com/marandrada/sp_files/releases/download/v1.43/Spye.T16.1.43.apk",
         "logUrl": "https://dev.marthai.com/aws3"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
         "empresa": "T45",
-        "version": "1.42",
-        "url": "https://github.com/marandrada/sp_files/releases/download/v1.42/Spye.T45.1.42.apk",
+        "version": "1.43",
+        "url": "https://github.com/marandrada/sp_files/releases/download/v1.43/Spye.T45.1.43.apk",
         "logUrl": "https://dev.marthai.com/aws3"
     }
 ]
