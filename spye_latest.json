@@ -1,8 +1,8 @@
 [
     {
         "empresa": "T01",
-        "version": "1.56",
-        "url": "https://github.com/marandrada/sp_files/releases/download/v1.56/Spye.T01.1.56.apk",
+        "version": "1.57",
+        "url": "https://github.com/marandrada/sp_files/releases/download/v1.57/Spye.T01.1.57.apk",
         "logUrl": "https://spye-back.thademar.com/aws3"
     },
     {
@@ -13,8 +13,8 @@
     },
     {
         "empresa": "T16",
-        "version": "1.56",
-        "url": "https://github.com/marandrada/sp_files/releases/download/v1.56/Spye.T16.1.56.apk",
+        "version": "1.57",
+        "url": "https://github.com/marandrada/sp_files/releases/download/v1.57/Spye.T16.1.57.apk",
         "logUrl": "https://spye-back.thademar.com/aws3"
     },
     {
@@ -25,14 +25,14 @@
     },
     {
         "empresa": "T45",
-        "version": "1.56",
-        "url": "https://github.com/marandrada/sp_files/releases/download/v1.56/Spye.T45.1.56.apk",
+        "version": "1.57",
+        "url": "https://github.com/marandrada/sp_files/releases/download/v1.57/Spye.T45.1.57.apk",
         "logUrl": "https://spye-back.thademar.com/aws3"
     },
     {
         "empresa": "T41",
-        "version": "1.56",
-        "url": "https://github.com/marandrada/sp_files/releases/download/v1.56/Spye.T41.1.56.apk",
+        "version": "1.57",
+        "url": "https://github.com/marandrada/sp_files/releases/download/v1.57/Spye.T41.1.57.apk",
         "logUrl": "https://spye-back.thademar.com/aws3"
     }
 ]
