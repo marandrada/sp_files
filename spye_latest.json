@@ -1,38 +1,38 @@
 [
     {
         "empresa": "T01",
-        "version": "1.57",
-        "url": "https://github.com/marandrada/sp_files/releases/download/v1.57/Spye.T01.1.57.apk",
+        "version": "1.58",
+        "url": "https://github.com/marandrada/sp_files/releases/download/v1.58/Spye.T01.1.58.apk",
         "logUrl": "https://spye-back.thademar.com/aws3"
     },
     {
         "empresa": "TD5",
-        "version": "1.56",
-        "url": "https://github.com/marandrada/sp_files/releases/download/v1.56/Spye.TD5.1.56.apk",
+        "version": "1.58",
+        "url": "https://github.com/marandrada/sp_files/releases/download/v1.58/Spye.TD5.1.58.apk",
         "logUrl": "https://spye-back.thademar.com/aws3"
     },
     {
         "empresa": "T16",
-        "version": "1.57",
-        "url": "https://github.com/marandrada/sp_files/releases/download/v1.57/Spye.T16.1.57.apk",
+        "version": "1.58",
+        "url": "https://github.com/marandrada/sp_files/releases/download/v1.58/Spye.T16.1.58.apk",
         "logUrl": "https://spye-back.thademar.com/aws3"
     },
     {
         "empresa": "TEST",
-        "version": "1.57",
-        "url": "https://github.com/marandrada/sp_files/releases/download/v1.57/Spye.TEST.1.57.apk",
+        "version": "1.58",
+        "url": "https://github.com/marandrada/sp_files/releases/download/v1.58/Spye.TEST.1.58.apk",
         "logUrl": "https://spye-back.thademar.com/aws3"
     },
     {
         "empresa": "T45",
-        "version": "1.57",
-        "url": "https://github.com/marandrada/sp_files/releases/download/v1.57/Spye.T45.1.57.apk",
+        "version": "1.58",
+        "url": "https://github.com/marandrada/sp_files/releases/download/v1.58/Spye.T45.1.58.apk",
         "logUrl": "https://spye-back.thademar.com/aws3"
     },
     {
         "empresa": "T41",
-        "version": "1.57",
-        "url": "https://github.com/marandrada/sp_files/releases/download/v1.57/Spye.T41.1.57.apk",
+        "version": "1.58",
+        "url": "https://github.com/marandrada/sp_files/releases/download/v1.58/Spye.T41.1.58.apk",
         "logUrl": "https://spye-back.thademar.com/aws3"
     }
 ]
